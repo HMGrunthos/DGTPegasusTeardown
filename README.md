@@ -4,7 +4,7 @@ Repair/teardown of a DGT-Pegasus chess board
 * Fault with piece detection on two squares.
 * A thin PCB covers the entire play area. 
 * PCB is not removable without removing the board surface (polyester sticker?)
-* Used heat (clothes iron) to assist in removing it.
+* We used heat (clothes iron) to assist in removing it.
 * Light pipe array is screwed into the black ABS base at the centre and four corners.
 * Rear surface of the PCB holds the control electronics.
 * There's a board interface IC, possibly [R5F51303ADFL](https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx130-cost-optimized-high-performance-32-bit-microcontroller-enhanced-touch-key-function-and-5v-operation)
