@@ -2,6 +2,7 @@ Repair/teardown of a DGT-Pegasus chess board
 ===============
 
 * Fault with piece detection on two squares.
+* A thin PCB covers the entire play area. 
 * PCB is not removable without removing the board surface (polyester sticker?)
 * Used heat (clothes iron) to assist in removing it.
 * Light pipe array is screwed into the black ABS base at the centre and four corners.
