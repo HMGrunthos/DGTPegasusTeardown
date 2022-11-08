@@ -1,4 +1,3 @@
-title: DGTPegasusTeardown
 Repair/teardown of a DGT-Pegasus chess board
 ===============
 
