@@ -4,7 +4,7 @@ Repair/teardown of a DGT's Pegasus online chess board
 Fault: Inconsistent piece detection (absent and spurious) on two squares.
 
 * A thin PCB covers the entire play area.
-* The board/sensor PCB is not removable without removing the board surface (polyester sticker?)
+* The board/sensor PCB is not removable without delaminating the board surface (polyester sticker?)
 * We used heat (clothes iron) to assist in removing it.
 * A light pipe array is screwed into the black ABS base at the centre and four corners.
 * The rear surface of the PCB holds the control electronics.
