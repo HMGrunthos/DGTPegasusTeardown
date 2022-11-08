@@ -10,3 +10,6 @@ Repair/teardown of a DGT-Pegasus chess board
 * There are row/column tracks on the front and rear of the PCB running to each square - some kind of inductive piece detection (essentially a metal detector.)
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
 * Track was repaired and following board calibration seems to work as intended.
+
+Related repository:
+https://github.com/EdNekebno/DGTCentaurMods
