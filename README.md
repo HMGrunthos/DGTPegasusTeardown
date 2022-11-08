@@ -7,5 +7,5 @@ Repair/teardown of a DGT-Pegasus chess board
 * Light pipe array is screwed into the black ABS base at the centre and four corners.
 * Rear surface of the PCB holds the control electronics.
 * Rear surface also holds the LED array, drivers (x8) and light pipe.
-* There are row/column index lines on the front and rear of the PCB running to each square - some kind of inductive piece detection (essentially a metal detector.)
+* There are row/column tracks on the front and rear of the PCB running to each square - some kind of inductive piece detection (essentially a metal detector.)
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
