@@ -1,4 +1,4 @@
-Repair/teardown of DGT's Pegasus online chess board
+Repair/teardown of [DGT's Pegasus](https://digitalgametechnology.com/products/home-use-e-boards/dgt-pegasus) online chess board
 ===============
 
 Fault: Inconsistent piece detection (absent and spurious) on two squares.
