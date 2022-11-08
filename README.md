@@ -5,7 +5,7 @@ Fault: Inconsistent piece detection (absent and spurious) on two squares.
 
 * A thin board/sensor PCB covers the entire play area.
 * The board/sensor PCB is not removable without delaminating the board surface (a polyester sticker?)
-* We used heat (a clothes iron) to assist in removing it.
+* We used heat (a clothes iron) to assist in removing it (the board surface.)
 * The power/interface PCB is connected to the board/sensor PCB using a ribbon cable. 
 * A light pipe array is screwed into the black ABS base at the centre and four corners (screws inaccessible without removing the board surface.)
 * The rear surface of the PCB holds the play area control electronics.
