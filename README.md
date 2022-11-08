@@ -3,7 +3,7 @@ Repair/teardown of [DGT's Pegasus](https://digitalgametechnology.com/products/ho
 
 Fault: Inconsistent piece detection (absent and spurious) on two squares.
 
-* A thin PCB covers the entire play area.
+* A thin board/sensor PCB covers the entire play area.
 * The board/sensor PCB is not removable without delaminating the board surface (a polyester sticker?)
 * We used heat (a clothes iron) to assist in removing it.
 * The power/interface PCB is connected to the board/sensor PCB using a ribbon cable. 
