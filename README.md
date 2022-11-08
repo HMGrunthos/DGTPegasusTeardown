@@ -9,3 +9,4 @@ Repair/teardown of a DGT-Pegasus chess board
 * Rear surface also holds the LED array, drivers (x8) and light pipe.
 * There are row/column tracks on the front and rear of the PCB running to each square - some kind of inductive piece detection (essentially a metal detector.)
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
+* Track was repaired and following board calibration seems to work as intended.
