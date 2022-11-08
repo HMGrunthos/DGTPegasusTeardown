@@ -13,7 +13,7 @@ Fault: Inconsistent piece detection (absent and spurious) on two squares.
 * The rear surface also holds the LED array, drivers (8x[STP08CP05](https://www.st.com/en/power-management/stp08cp05.html)) and light pipes.
 * There are row/column tracks on the front and rear of the PCB running to each square - inductive piece detection (essentially a short range metal detector?)
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
-* The faulty PCB track was repaired and following board calibration (normal process of using the board) seems to work as intended.
+* The faulty PCB track was repaired, and following board calibration (normal process of using the board) seems to work as intended.
 
 Related repository:
 https://github.com/EdNekebno/DGTCentaurMods
