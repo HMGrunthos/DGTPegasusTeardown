@@ -6,7 +6,7 @@
 Inconsistent piece detection (absent and spurious) on two squares.
 
 ## Teardown & fix
-* A thin board/sensor PCB covers the entire play area.
+* A thin board/sensor PCB covers the [entire play area.](Pictures/CONTRIBUTING.md)
 * The power/interface PCB is connected to the board/sensor PCB by a ribbon cable.
 * The board/sensor PCB is not accessible without delaminating the board surface (a polyester sticker?)
 * We used heat (a clothes iron) to assist in removing it (the board surface.) 
