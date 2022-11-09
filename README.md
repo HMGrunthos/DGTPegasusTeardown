@@ -1,7 +1,8 @@
-Repair/teardown of [DGT's Pegasus](https://digitalgametechnology.com/products/home-use-e-boards/dgt-pegasus) online chess board
-===============
+#Repair/teardown of [DGT's Pegasus](https://digitalgametechnology.com/products/home-use-e-boards/dgt-pegasus) online chess board
 
-Fault: Inconsistent piece detection (absent and spurious) on two squares.
+
+##Fault:
+Inconsistent piece detection (absent and spurious) on two squares.
 
 * A thin board/sensor PCB covers the entire play area.
 * The power/interface PCB is connected to the board/sensor PCB by a ribbon cable.
@@ -15,5 +16,5 @@ Fault: Inconsistent piece detection (absent and spurious) on two squares.
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
 * The faulty PCB track was repaired, and following board calibration (a normal process of using the board) the board seems to work as intended.
 
-Related repository:
+##Related repositories:
 https://github.com/EdNekebno/DGTCentaurMods
