@@ -1,6 +1,6 @@
 # Repair/teardown of [DGT's Pegasus](https://digitalgametechnology.com/products/home-use-e-boards/dgt-pegasus) online chess board
 
-> We believe that the play area PCB may be shared with [DGT's Centaur](https://digitalgametechnology.com/products/chess-computers/dgt-centaur-chess-computer)
+> We believe that the play area/sensor PCB may be shared with [DGT's Centaur](https://digitalgametechnology.com/products/chess-computers/dgt-centaur-chess-computer)
 
 ## Fault:
 Inconsistent piece detection (absent and spurious) on two squares.
