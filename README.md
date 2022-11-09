@@ -8,7 +8,7 @@ Inconsistent piece detection (absent and spurious) on two squares.
 ## Teardown & fix
 * A thin board/sensor PCB covers the [entire play area](Pictures/DGT_Pegasus_BoardExposed.jpeg).
 * The power/interface PCB is connected to the board/sensor PCB by a ribbon cable.
-* The board/sensor PCB is not accessible without delaminating the board surface (a polyester sticker?)
+* The board/sensor PCB is not accessible without delaminating the [board surface](Pictures/TopSticker_Removed-2.jpg) (a polyester sticker?)
 * We used heat (a clothes iron) to assist in removing it (the board surface.) 
 * A [light pipe array](Pictures/LightPipeArray-4.jpg) (polycarbonate?) is screwed into the black [plastic ABS base](Pictures/ABSBase-1.jpg) at the centre and four corners (screws inaccessible without removing the board surface.
 * The rear surface of the board/sensor PCB holds the play area [control electronics](Pictures/PCB-BottomLEDsAndControl-ControllerDetail-1.jpg).
