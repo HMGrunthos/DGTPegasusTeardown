@@ -2,7 +2,7 @@
 
 > We believe that the play area/sensor PCB may be shared with [DGT's Centaur](https://digitalgametechnology.com/products/chess-computers/dgt-centaur-chess-computer)
 
-## Fault:
+## Fault
 Inconsistent piece detection (absent and spurious) on two squares.
 
 ## Teardown & fix
@@ -18,5 +18,5 @@ Inconsistent piece detection (absent and spurious) on two squares.
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
 * The faulty PCB track was repaired, and following board calibration (a normal process of using the board) the board seems to work as intended.
 
-## Related repositories:
+## Related repositories
 https://github.com/EdNekebno/DGTCentaurMods
