@@ -19,7 +19,7 @@ Inconsistent piece detection (absent and spurious) on two squares.
 ## Repair
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
 * The faulty PCB track was repaired, and following board calibration (a normal process of using the board) the board seems to work as intended.
-* New [board artwork]() was maunfactured and attached.
+* New [board artwork](ReplacementArtwork/DGTPegasus-Board.pdf) was maunfactured and attached.
 
 ## Related repositories
 https://github.com/EdNekebno/DGTCentaurMods
