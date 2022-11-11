@@ -5,7 +5,7 @@
 ## Fault
 Inconsistent piece detection (absent and spurious) on two squares.
 
-## Teardown & fix
+## Teardown
 * A thin board/sensor PCB covers the [entire play area](Pictures/DGTPegasus-BoardExposed.jpeg).
 * The power/interface PCB is connected to the board/sensor PCB by a ribbon cable.
 * The board/sensor PCB is not accessible without delaminating the [board surface](Pictures/TopSticker-Removed-2.jpg) (a polyester sticker?)
@@ -15,8 +15,11 @@ Inconsistent piece detection (absent and spurious) on two squares.
 * There's an IC on the rear surface of the board/sensor PCB (part of the control electronics, acting as a sensor interface?) Possibly [R5F51303ADFL](https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx130-cost-optimized-high-performance-32-bit-microcontroller-enhanced-touch-key-function-and-5v-operation)
 * The [rear surface](Pictures/PCB-BottomLEDsAndControl-WholeBoard-1.jpg) of the board/sensor PCB also holds the LED array, LED drivers (8x[STP08CP05](https://www.st.com/en/power-management/stp08cp05.html)) and interfaces to the light pipes (to bring the LED light output to the board surface.)
 * There are [row/column tracks](Pictures/PCB-TopDetectors-OverheadDetail.jpg) on the front and rear of the PCB [running to each square](Pictures/PCB-TopDetectors-TrackDetail.jpg) - inductive piece detection (essentially very short range metal detection.)
+
+## Repair
 * There was a broken track at the end of a row/column leading to inconsistent/missing piece detection.
 * The faulty PCB track was repaired, and following board calibration (a normal process of using the board) the board seems to work as intended.
+* New [board artwork]() was maunfactured and attached.
 
 ## Related repositories
 https://github.com/EdNekebno/DGTCentaurMods
